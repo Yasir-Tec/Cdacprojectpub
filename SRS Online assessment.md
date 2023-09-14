@@ -23,15 +23,15 @@ System Reqruiement Spefication for Online Shopping Portal
   #### 1 . User Management -
   - User can register as student, examiner, administrator using their unique ID.
   - User needs to complete all required verification steps for successful registration.
-  - Once user registered successfully, system will generate username and password which will  required at the time of login.
+  - Once user registered successfully, system will generate username and password which will required at the time of login.
   - Users can log on to their respective portal and can be able to access various system services.
       - Student can log on to their portal and give exams, verify the results, update their profiles
       - Institute co-ordinator can log on to their portal and can check for various options like List of student from their institute appeared for exams. System will also maintained list of student from various institute who has cleared the exam or not.
   #### 2 . Exam Management -
-    - Exam co-ordinator can create exams on admin portal by specifying exam type(Mock exam, Aptitude, Module assignment) and assign them to students or specific group of students by applying if any criteria is mentioned there.
-    - Exam co-ordinator can specify date and time for exam.
-    - Exam co-ordinator will track list of student who have matched the exam passing criteria or not.
-    - 
+  - Exam co-ordinator can create exams on admin portal by specifying exam type(Mock exam, Aptitude, Module assignment) and assign them to students or specific group of students by applying if any criteria is mentioned there.
+  - Exam co-ordinator can specify date and time for exam.
+  - Exam co-ordinator will also track the list of students who matched the exam passing criteria or not.
+     
 ## NonFunctional Requirement:
 
 #### 1. Performance
