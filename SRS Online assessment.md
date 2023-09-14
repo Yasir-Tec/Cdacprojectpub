@@ -3,10 +3,11 @@
 System Requirement Specification Document
 ## Title:
 System Reqruiement Spefication for Online Shopping Portal
-Team:
+## Team:
+- Student,CDAC Administrator,Exam Coordinator,Tech Support,Institute Coordinator
 Objective (Purpose):
-Scope:
-Definitions:
+## Scope:
+## Definitions:
 Functional Requirements:
 NonFunctional Requirement:
 Security:
