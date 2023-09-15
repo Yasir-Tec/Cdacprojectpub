@@ -38,7 +38,8 @@ System Reqruiement Spefication for Online Assessment Portal
 - The system should support a large number of concurrent users.
 - Response times for actions such as exam loading and submission should be minimal
 #### 2. Security
-- User data, including passwords, should be securely stored and transmitted.
+- The students and faculties authorized by the CDAC Administrator are allowed to access the system. 
+- User data, including passwords, should be securely stored.
 - Access to exams and results should be restricted based on user roles.
 #### 3. Scalability
 - The system should be scalable to accommodate a growing number of users and exams.
