@@ -11,11 +11,11 @@ System Reqruiement Spefication for Online Assessment Portal
 ## Scope:
   The Online Examination System will provide a platform for conducting online exams securely, efficiently, and with user-friendly features. This system focus on rapid behaviour of system that process different requests and generate results as fast as possible.
   - Since it is web based system , user can login to portal from anywhere and able to appear for the exam.
-  - Examiner need not to be present at the time of exam as system can deals with various security threats, fault tolerence, backup and recovery of data in case of power failure etc.  
+  - Examiner not need to be present at the time of exam as system can deals with various security threats, fault tolerence, backup and recovery of data in case of power failure etc.  
 ## Definitions:
-  - OSS : Online Examination System.
+  - OES : Online Examination System.
   - UI  : User Interface.
-  - BAR : Backup and Recovery.
+  - BAR : Backup And Recovery.
   - DB  : Database
 
 ## Functional Requirements:
