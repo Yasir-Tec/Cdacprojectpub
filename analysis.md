@@ -1,7 +1,7 @@
 
-A. Student 				
-	1.exam 
-		-exam name
+##Student 				
+	###1.exam 
+		-exam name   
 		-Subjet Name 
 		-Subject Code
 		-
@@ -24,6 +24,7 @@ A. Student
 	5. login
 			-User Name
 			-User Password
+        6. 
 			
 	
 B. Cdac 
