@@ -1,14 +1,14 @@
 
-##A. Student 				
-	###1.exam 
+A. Student 				
+	1.exam 
 		-exam name
 		-Subjet Name 
 		-Subject Code
 		-
-	###2.result
+	2.result
 			-CCEE Result
 			-Modulend Result
-	###3.mocks
+	3.mocks
 			-modulend Mocks
 			-Apptitude Mocks
 			-Interview Mocks
