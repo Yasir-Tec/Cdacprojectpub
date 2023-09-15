@@ -1,11 +1,13 @@
 # Online Assessment System
 ## Document:
 System Requirement Specification Document
+
 ## Title:
 System Reqruiement Spefication for Online Shopping Portal
 ## Team:
 - Student,CDAC Administrator,Exam Coordinator,Tech Support,Institute Coordinator
-Objective (Purpose):
+## Objective (Purpose):
+  System aims to conduct online exams and display results to the students.
 ## Scope:
 ## Definitions:
 Functional Requirements:
