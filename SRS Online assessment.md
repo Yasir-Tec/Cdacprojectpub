@@ -11,7 +11,7 @@ System Reqruiement Spefication for Online Assessment Portal
 - Tech Support
 - Institute Coordinator
 ## Objective (Purpose):
-  System aims to conduct online exams on remote platform for students. Institute suppose to provide quetion paper on student portal and also they can track the results. This system will be used by any educational institute to host exams, administrator and to access online examinations.
+  System aims to conduct online exams on remote platform for students. CDAC suppose to provide question paper on student portal and also they can track the results. This system will be used by any educational institute to host exams, administrator and to access online examinations.
 ## Scope:
   The Online Examination System will provide a platform for conducting online exams securely, efficiently, and with user-friendly features. This system focus on rapid behaviour of system that process different requests and generate results as fast as possible.
   - Since it is web based system , user can login to portal from anywhere and able to appear for the exam.
