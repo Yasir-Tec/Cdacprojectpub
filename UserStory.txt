@@ -1,1 +1,5 @@
-UserStory 
+As a CDAC Administrator, I want to login, so that I can monitor the Examination process.
+As a CDAC Administator, I want to update the courses and subjects, so that institute and students are well be informed about current industrial requirements.
+As a CDAC Administator, I want to allocate the name of Exam Coordinator and Institute Coordinator, so that communication between students,institutes and CDAC will be smooth.
+As a CDAC Administator, I want to allocate the name of Exam Coordinator and Institute Coordinator, so that authentic data like student name, subject content and result been provided.
+As a CDAC Administator, I want to access all the data, so that monitoring become easier for me hence can provide further updation.
