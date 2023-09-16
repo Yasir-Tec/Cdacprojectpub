@@ -38,18 +38,27 @@ System Reqruiement Spefication for Online Assessment Portal
      
 ## NonFunctional Requirement:
 
-#### 1. Performance
+
+#### 1. Performance:
 - The system should support a large number of concurrent users.
 - Response times for actions such as exam loading and submission should be minimal
-#### 2. Security
+#### 2. Security:
 - The students and faculties authorized by the CDAC Administrator are allowed to access the system. 
 - User data, including passwords, should be securely stored.
 - Access to exams and results should be restricted based on user roles.
-#### 3. Scalability
+#### 4. Reliability:
+-Every time the system is syn with the student data so in any point of time the system crashes or faces a technical issue, the 
+ student question are backed up and student need not to worry in any situation.
+#### 5. Scalability:
 - The system should be scalable to accommodate a growing number of users and exams.
-Reliability:
-#### 4. Availability
+  Reliability:
+#### 6. Availability
 - The system should have high availability to ensure exams can be conducted without interruption.
-uptime: 24* 7 available 99.999%
-#### 5. Safety
+  uptime: 24* 7 available 99.999%
+#### 7. Maintainability:
+- A Commercial database software will be used to maintain system data persistence a ready made webserver installed to host online 
+  assessment system.
+- To manage server capabilities it operations team will easily monitored and configure system using administrative tools provided by 
+  servers.
+#### 8. Safety:
 - System ensures safety of data, In case of power failure or network related issues current session of exam can be saved and student will able to resume their exam later on.
