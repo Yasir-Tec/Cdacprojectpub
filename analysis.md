@@ -1,14 +1,15 @@
 				
-# 1.Conducting Examination -
+# 1.Registration -
 ## Student-
-###1.Registration-
-			-Name
-			-Email
-			-Institute Name
-			-Course
-			-PRN Number
-			-Password
-			
+-Name
+-Email
+        -Institute Name
+	-Course
+	-PRN Number
+	-Password
+ ## Cdac Administrator-
+	-Login
+	-password
 ###2.Login
 			-User Name
 			-User Password
