@@ -1,17 +1,20 @@
 				
 # 1.Registration -
-## Student-
+## Student
 - Name
 - Email
 - Institute Name
 - Course
 - PRN Number
 - Password
- ## Exam Coordinator-
- - Name
- - Email
- - Password
-##D.Center coordinator
+## Exam Coordinator
+- Name
+- Email
+- Password
+## Institute Coordinator
+- Name
+- Email
+- Password
 ###1.Login-
 	-user name
 	-user password
