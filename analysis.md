@@ -33,8 +33,8 @@
 - User name
 - PRN number
 - User password
-##
-###3.Exam
+
+##Exam
 		  	-exam name   
 			-Subjet Name 
 			-Subject Code
