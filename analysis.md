@@ -1,5 +1,4 @@
-				
-# 1.Registration -
+# 1. Registration -
 ### Student
 - Name
 - Email
@@ -15,9 +14,10 @@
 ### Institute Coordinator
 - Name
 - Email
+- Institute
 - Set ID
 - Set Password
-# Examination Conductant
+# 2. Examination Conductant
 ## Login
 ### Cdac Administrator 
 #### Login-
@@ -27,7 +27,7 @@
 - Exam Coordinator Name
 - Institute Coordinator name
 - Course
-- Module
+- Subject Name
 ### Exam Coordinator
 #### Login
 - Login ID
@@ -35,65 +35,32 @@
 #### Schedule-
 - Date
 - Time
-- Subjectwise Assessments
-- 
+- Topicwise Assessment
+- Subjectwise Assessment
+- ModuleEnd Assessment
+- Final Assessment
+- Aptitute Assessment
 ### Institute Coordinator
+#### Login
 - Login ID
 - Institute
 - Password
-### Student Login-
+#### Schedule
+- Institute
+- Student List
+### Student 
+#### Login
 - User name
 - PRN number
 - User password
+#### Schedule
+- Exam Name
+- ##### Subject Name
+- Topicwise
+- Subjectwise
+- ModuleEnd
+- Final
+# 3. Result
 
-##Exam
-		  	-exam name   
-			-Subjet Name 
-			-Subject Code
-		    				
-			
-###4.Result
-			-CCEE Result
-			-Modulend Result
-###5.Mocks    
-			-modulend Mocks
-			-Apptitude Mocks
-			-Interview Mocks
-			-English Mocks
-	
-         
-			
-	
-##B. Cdac Administrator-
-##1.Registration-
-	1.Login
-	2.password
-###2.Schedule Exam-
-        -exam date
-	-exam place
-	-exam duration
-        -exam coordinator
-	-exam paper
- ###3.Result-
-         -mock result
-	 -exam result
-         -ccee result
 
- ##C.Exam Coordinator-
- ###1.Login-
-       -user name
-	-user password
- ###2.Exam
-       -exam schedule
-       -exam date 
-       -exam place
-       -exam invigilate
-       
-##D.Center coordinator
-###1.Login-
-	-user name
-	-user password
-###2.Result- 
-	 -mock result
-	 -exam result
-         -ccee result
+
