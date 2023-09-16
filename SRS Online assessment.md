@@ -5,7 +5,11 @@ System Requirement Specification Document
 ## Title:
 System Reqruiement Spefication for Online Assessment Portal
 ## Team:
-- Student,CDAC Administrator,Exam Coordinator,Tech Support,Institute Coordinator
+- Student
+- CDAC Administrator
+- Exam Coordinator
+- Tech Support
+- Institute Coordinator
 ## Objective (Purpose):
   System aims to conduct online exams on remote platform for students. Institute suppose to provide quetion paper on student portal and also they can track the results. This system will be used by any educational institute to host exams, administrator and to access online examinations.
 ## Scope:
