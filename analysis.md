@@ -17,14 +17,26 @@
 - Email
 - Set ID
 - Set Password
-# Examination 
+# Examination Conductant
 ## Login
-### Cdac Administrator Login-
+### Cdac Administrator 
+#### Login-
 - Login ID
 - Password
-### Exam Coordinator Login
+#### Schedule-
+- Exam Coordinator Name
+- Institute Coordinator name
+- Course
+- Module
+### Exam Coordinator
+#### Login
 - Login ID
 - Password
+#### Schedule-
+- Date
+- Time
+- Subjectwise Assessments
+- 
 ### Institute Coordinator
 - Login ID
 - Institute
