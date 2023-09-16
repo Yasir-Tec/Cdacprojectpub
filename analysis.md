@@ -17,6 +17,11 @@
 - Institute
 - Set ID
 - Set Password
+### Tech Support
+- Name
+- Email
+- Set ID
+- Set Password
 # 2. Examination Conductant
 ## Login
 ### Cdac Administrator 
@@ -59,6 +64,9 @@
 - Subjectwise
 - ModuleEnd
 - Final
+### Tech Support
+- Login ID
+- Password
 # 3. Result
 
 
