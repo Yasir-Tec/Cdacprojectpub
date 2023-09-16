@@ -55,7 +55,6 @@
 - User password
 #### Schedule
 - Exam Name
-- ##### Subject Name
 - Topicwise
 - Subjectwise
 - ModuleEnd
