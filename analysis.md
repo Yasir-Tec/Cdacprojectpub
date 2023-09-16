@@ -1,31 +1,39 @@
 				
 # 1.Registration -
-## Student
+### Student
 - Name
 - Email
 - Institute Name
 - Course
 - PRN Number
-- Password
-## Exam Coordinator
+- Set Password
+### Exam Coordinator
 - Name
 - Email
-- Password
-## Institute Coordinator
+- Set ID
+- Set Password
+### Institute Coordinator
 - Name
 - Email
+- Set ID
+- Set Password
+# Examination 
+## Login
+### Cdac Administrator Login-
+- Login ID
 - Password
-###1.Login-
-	-user name
-	-user password
-
- ## Cdac Administrator-
-- Login
-- password
-###2.Login
-			-User Name
-			-User Password
-  
+### Exam Coordinator Login
+- Login ID
+- Password
+### Institute Coordinator
+- Login ID
+- Institute
+- Password
+### Student Login-
+- User name
+- PRN number
+- User password
+##
 ###3.Exam
 		  	-exam name   
 			-Subjet Name 
