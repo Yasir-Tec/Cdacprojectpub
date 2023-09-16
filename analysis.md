@@ -1,18 +1,7 @@
-#Student 				
-	###1.exam 
-		-exam name   
-		-Subjet Name 
-		-Subject Code
-		-
-	2.result
-			-CCEE Result
-			-Modulend Result
-	3.mocks
-			-modulend Mocks
-			-Apptitude Mocks
-			-Interview Mocks
-			-English Mocks
-	4.registration 
+				
+# 1.Conducting Examination -
+## Student-
+###1.Registration-
 			-Name
 			-Email
 			-Institute Name
@@ -20,12 +9,59 @@
 			-PRN Number
 			-Password
 			
-	5. login
+###2.Login
 			-User Name
 			-User Password
-        6. 
+  
+###3.Exam
+		  	-exam name   
+			-Subjet Name 
+			-Subject Code
+		    				
+			
+###4.Result
+			-CCEE Result
+			-Modulend Result
+###5.Mocks    
+			-modulend Mocks
+			-Apptitude Mocks
+			-Interview Mocks
+			-English Mocks
+	
+         
 			
 	
-B. Cdac 
+##B. Cdac Administrator-
+##1.Registration-
 	1.Login
-	2.
+	2.password
+###2.Schedule Exam-
+        -exam date
+	-exam place
+	-exam duration
+        -exam coordinator
+	-exam paper
+ ###3.Result-
+         -mock result
+	 -exam result
+         -ccee result
+
+ ##C.Exam Coordinator-
+ ###1.Login-
+       -user name
+	-user password
+ ###2.Exam
+       -exam schedule
+       -exam date 
+       -exam place
+       -exam invigilate
+       
+##D.Center coordinator
+###1.Login-
+	-user name
+	-user password
+###2.Result- 
+	 -mock result
+	 -exam result
+         -ccee result
+##E.
