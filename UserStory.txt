@@ -17,8 +17,12 @@ Student :-
 7. As a student, I need to be able to generate my 'Username' and 'Password' , so that I can use it for authentication.
 8. As a student, I need to be able to receive my 'Username' and 'Password' on my email, so that it can permanently saved in my storage. 
 9. As a student, I need to be able to submit feedback, so that exam coordinator consider them while updating the system.
+10. As a student, I want to login to examination portal so I can select the examination center my choice.
 
 Exam Co-ordinator:-
 1. As a exam coordinator, I need to be register and authenticate myself, so that i can access my 'Exam management Portfolio'.
 2. As a exam coordinator, I need to be able to create and upload exams on student portal, so that they can give their exams on their portal.
+
+Tech Support:
+1. As a tech support, I want to monitor each an every examination system, so that exam is conducted smoothly.
 
