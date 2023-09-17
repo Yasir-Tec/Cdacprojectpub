@@ -47,16 +47,16 @@ System Reqruiement Spefication for Online Assessment Portal
 - User data, including passwords, should be securely stored.
 - Access to exams and results should be restricted based on user roles.
 #### 4. Reliability:
--Every time the system is syn with the student data so in any point of time the system crashes or faces a technical issue, the 
- student question are backed up and student need not to worry in any situation.
+-Every time the system is synced with the student data so in any point of time the system crashes or faces a technical issue. 
+-The student responses are backed up, so student need not to worry in any situation.
 #### 5. Scalability:
 - The system should be scalable to accommodate a growing number of users and exams.
   Reliability:
 #### 6. Availability
 - The system should have high availability to ensure exams can be conducted without interruption.
-  uptime: 24* 7 available 99.999%
+  uptime: 24 * 7 available 99.999%
 #### 7. Maintainability:
-- A Commercial database software will be used to maintain system data persistence a ready made webserver installed to host online 
+- A Commercial database software will be used to maintain system data persistence a ready made webserver installed to host online. 
   assessment system.
 - To manage server capabilities it operations team will easily monitored and configure system using administrative tools provided by 
   servers.
