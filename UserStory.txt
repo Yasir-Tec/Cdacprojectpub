@@ -22,7 +22,17 @@ Student :-
 Exam Co-ordinator:-
 1. As a exam coordinator, I need to be register and authenticate myself, so that i can access my 'Exam management Portfolio'.
 2. As a exam coordinator, I need to be able to create and upload exams on student portal, so that they can give their exams on their portal.
+3 - As a exam coordinator, i need to be able to see feedback given by students on my portal,so that i can consider it while updatinf the system.
+4 - As a exam cordinator, i need to be able to see the list of students who have appeared for the exam or who has passed/failed, so that it will be easy for evaluation.
+5 - As a exam coordinator, i need to be able restrict ot allow particular individual if they didnt match any shortlisting criteria, so that it will be easy for evaluating candidates.
+
+Institute Co-ordinator:-
+
+1 - As a institute coordinator, i need to be able register/authenticate myself, so that i can access my portal.
+2 - As a institute coordinator, i need to be able to see list of students who appeared for the exam from my institute, so that it will be easy for monitoring student throughout the course.
+3 - As a institute coordinator , i need to be able to see the attendence of each students throughout the course, so that i will be easy for shortlisting the condidates withing particular criteria.
 
 Tech Support:
 1. As a tech support, I want to monitor each an every examination system, so that exam is conducted smoothly.
+
 
