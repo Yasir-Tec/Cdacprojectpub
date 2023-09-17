@@ -3,3 +3,11 @@ As a CDAC Administator, I want to update the courses and subjects, so that insti
 As a CDAC Administator, I want to allocate the name of Exam Coordinator and Institute Coordinator, so that communication between students,institutes and CDAC will be smooth.
 As a CDAC Administator, I want to allocate the name of Exam Coordinator and Institute Coordinator, so that authentic data like student name, subject content and result been provided.
 As a CDAC Administator, I want to access all the data, so that monitoring become easier for me and can provide further updation.
+
+
+
+
+As a Student,I need to be able to login so that  As a student, I need to be able to see 'Resend OTP' option if OTP gets expired or exceeds the time limit,so that i can validate my details.
+As a student, I need to be able be able to see 'login' option or 'login link'  after successful registration, so that I can redirect to 'login' page.
+As a student, I need to be able to generate my 'Username' and 'Password' , so that I can use it for authentication.
+As a student, I need to be able to receive my 'Username' and 'Password' on my email, so that it can permanently saved in my storage. 
