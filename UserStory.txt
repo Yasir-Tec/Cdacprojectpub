@@ -13,7 +13,7 @@
 11. As a student, I need to be able be able to see 'login' option or 'login link'  after successful registration, so that I can redirect to 'login' page.
 12. As a student, I need to be able to generate my 'Username' and 'Password' , so that I can use it for authentication.
 13. As a student, I need to be able to receive my 'Username' and 'Password' on my email, so that it can permanently saved in my storage. 
-14 - As a student, i need to be able to submit feedback, so that exam coordinator consider them while updating the system.
-15 - As a exam coordinator, i need to be register and authenticate myself, so that i can access my 'Exam management Portfolio'.
-16 - As a exam coordinator, i need to be able to create and upload exams on student portal, so that they can give their exams on their portal.
+14. As a student, I need to be able to submit feedback, so that exam coordinator consider them while updating the system.
+15. As a exam coordinator, I need to be register and authenticate myself, so that i can access my 'Exam management Portfolio'.
+16. As a exam coordinator, I need to be able to create and upload exams on student portal, so that they can give their exams on their portal.
 
