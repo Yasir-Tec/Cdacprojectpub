@@ -68,10 +68,8 @@
 - Login ID
 - Password
 # 3. Result
-##Student
-hgsdhasdg
-jdshgfu
-bjsadshdg
-
+## Student
+- Login id
+- password
 
 

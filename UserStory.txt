@@ -34,5 +34,6 @@ Institute Co-ordinator:-
 
 Tech Support:
 1. As a tech support, I want to monitor each an every examination system, so that exam is conducted smoothly.
+2. As a tech support,I want to
 
 
